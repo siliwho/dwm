@@ -1,0 +1,16 @@
+coc/
+evolution/
+gnome-session/
+goa-1.0/
+gtk-2.0/
+gtk-3.0/
+gtk-4.0/
+kicad/
+procps/
+pulse/
+qt5ct/
+systemd/
+Thunar/
+user-dirs.dirs
+user-dirs.locale
+xfce4/
