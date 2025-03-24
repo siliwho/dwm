@@ -6,3 +6,7 @@ New instance of bashtop version: 0.9.25 Pid: 51969
 New instance of bashtop version: 0.9.25 Pid: 5518
 /tmp/AeCnkiAGQNK2/bashtop.psutil:103: DeprecationWarning: 'count' is passed as positional argument
   name = re.sub( ".*" + rem_line + ".*:", "", line,1).lstrip()
+ 
+New instance of bashtop version: 0.9.25 Pid: 264320
+/tmp/2q1q7Vyfs3uq/bashtop.psutil:103: DeprecationWarning: 'count' is passed as positional argument
+  name = re.sub( ".*" + rem_line + ".*:", "", line,1).lstrip()
