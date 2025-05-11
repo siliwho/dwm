@@ -1,0 +1,11 @@
+arc-gtk-theme 20221218-2
+betterlockscreen 4.4.0-1
+execstack 20130503-9
+execstack-debug 20130503-9
+i3lock-color 2.13.c.5-3
+matlab-meta 9.14.0.2239454-1
+paru 2.0.4-1
+paru-debug 2.0.4-1
+qt5-webkit 5.212.0alpha4-27
+stremio 4.4.168-2
+stremio-debug 4.4.168-2
