@@ -3,13 +3,13 @@
 ## Looks
 
 ![wallpaper](looks.png)
+![alt text](image.png)
 
 ## Display Manager Configuration
 
 File Location: `/usr/share/xsessions/dwm.desktop`
 
 ```bash
-Copy code
 [Desktop Entry]
 Encoding=UTF-8
 Name=dwm
@@ -26,7 +26,6 @@ This configuration sets up dwm as your dynamic window manager for X sessions. Ju
 File Location: `/etc/X11/xorg.conf.d/30-touchpad.conf`
 
 ```bash
-Copy code
 Section "InputClass"
     Identifier "touchpad"
     Driver "libinput"
@@ -48,7 +47,6 @@ File Location: `/etc/systemd/logind.conf`
 Uncomment and modify these lines:
 
 ```bash
-Copy code
 HandleLidSwitch=suspend
 HandlePowerKey=suspend
 HandlePowerKeyLongPress=poweroff
